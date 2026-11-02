@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0405"
+secret: "nmm2dsr0"
+owner:
+  username: "yuuya-021"
+  id: 337910871
+  accepted_at: "2026-11-02T02:32:03Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0405-controlling_the_robot"
+  branch: "main"
